@@ -1,0 +1,16 @@
+{
+  "id": "1345604",
+  "name": "Deepak Soni",
+  "contactNumber": "+91-9990243192",
+  "emergencyContacts": [
+    {
+      "firstName": "Vivek",
+      "lastName": "Soni",
+      "contactNumber": "+91-9990221242"
+    }
+  ],
+  "department": {
+    "id": "1232",
+    "name": "Information Technology"
+  }
+}
